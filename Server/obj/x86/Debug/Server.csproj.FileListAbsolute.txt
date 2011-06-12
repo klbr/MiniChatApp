@@ -1,0 +1,12 @@
+C:\Users\Kleber\Documents\Visual Studio 2010\Projects\RemoteServer\RemoteServer\bin\Debug\RemoteServer.exe
+C:\Users\Kleber\Documents\Visual Studio 2010\Projects\RemoteServer\RemoteServer\bin\Debug\RemoteServer.pdb
+C:\Users\Kleber\Documents\Visual Studio 2010\Projects\RemoteServer\RemoteServer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Kleber\Documents\Visual Studio 2010\Projects\RemoteServer\RemoteServer\obj\x86\Debug\RemoteServer.exe
+C:\Users\Kleber\Documents\Visual Studio 2010\Projects\RemoteServer\RemoteServer\obj\x86\Debug\RemoteServer.pdb
+C:\Users\Kleber\Documents\Visual Studio 2010\Projects\MiniChatApp\RemoteServer\obj\x86\Debug\RemoteServer.exe
+C:\Users\Kleber\Documents\Visual Studio 2010\Projects\MiniChatApp\RemoteServer\obj\x86\Debug\RemoteServer.pdb
+C:\Users\Kleber\Documents\Visual Studio 2010\Projects\MiniChatApp\Server\obj\x86\Debug\RemoteServer.exe
+C:\Users\Kleber\Documents\Visual Studio 2010\Projects\MiniChatApp\Server\obj\x86\Debug\RemoteServer.pdb
+C:\Users\Kleber\Documents\Visual Studio 2010\Projects\MiniChatApp\Server\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Kleber\Documents\Visual Studio 2010\Projects\MiniChatApp\Server\bin\Debug\RemoteServer.exe
+C:\Users\Kleber\Documents\Visual Studio 2010\Projects\MiniChatApp\Server\bin\Debug\RemoteServer.pdb

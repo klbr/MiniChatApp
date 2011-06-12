@@ -1,0 +1,5 @@
+c:\users\kleber\documents\visual studio 2010\Projects\RemoteServer\RemoteServer\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\kleber\documents\visual studio 2010\Projects\RemoteServer\RemoteServer\bin\Debug\RemoteServer.exe
+c:\users\kleber\documents\visual studio 2010\Projects\RemoteServer\RemoteServer\bin\Debug\RemoteServer.pdb
+c:\users\kleber\documents\visual studio 2010\Projects\RemoteServer\RemoteServer\obj\x86\Debug\RemoteServer.exe
+c:\users\kleber\documents\visual studio 2010\Projects\RemoteServer\RemoteServer\obj\x86\Debug\RemoteServer.pdb

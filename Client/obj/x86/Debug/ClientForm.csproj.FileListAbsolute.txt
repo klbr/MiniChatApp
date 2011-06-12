@@ -1,0 +1,11 @@
+C:\Users\Kleber\documents\visual studio 2010\Projects\RemoteServer\ClientForm\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Kleber\documents\visual studio 2010\Projects\RemoteServer\ClientForm\obj\x86\Debug\ClientForm.Form1.resources
+C:\Users\Kleber\documents\visual studio 2010\Projects\RemoteServer\ClientForm\obj\x86\Debug\ClientForm.Properties.Resources.resources
+C:\Users\Kleber\documents\visual studio 2010\Projects\RemoteServer\ClientForm\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Kleber\documents\visual studio 2010\Projects\RemoteServer\ClientForm\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Kleber\documents\visual studio 2010\Projects\RemoteServer\ClientForm\bin\Debug\ClientForm.exe
+C:\Users\Kleber\documents\visual studio 2010\Projects\RemoteServer\ClientForm\bin\Debug\ClientForm.pdb
+C:\Users\Kleber\documents\visual studio 2010\Projects\RemoteServer\ClientForm\bin\Debug\RemoteServer.exe
+C:\Users\Kleber\documents\visual studio 2010\Projects\RemoteServer\ClientForm\bin\Debug\RemoteServer.pdb
+C:\Users\Kleber\documents\visual studio 2010\Projects\RemoteServer\ClientForm\obj\x86\Debug\ClientForm.exe
+C:\Users\Kleber\documents\visual studio 2010\Projects\RemoteServer\ClientForm\obj\x86\Debug\ClientForm.pdb
